@@ -39,7 +39,7 @@ https://www.python.org/downloads/
 ### 2. Install Pygame  
 ```bash
 pip install pygame
-
+```
 ---
 
 🧠 Future Features
