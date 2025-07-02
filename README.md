@@ -17,7 +17,7 @@ Typing Rain is a fast-paced retro-style typing game built with **Python** and **
 
 ## 🖥️ Screenshots
 ![image](https://github.com/user-attachments/assets/df96ea25-88bd-4e27-9849-9e6c7c00ada5)
-![image](https://github.com/user-attachments/assets/7868e6f6-8694-43a1-8027-a05b0f2dc955)
+![image](https://github.com/user-attachments/assets/8ef49e18-0c1d-4e23-bf23-7c02e2c12791)
 
 ---
 
@@ -39,3 +39,16 @@ https://www.python.org/downloads/
 ### 2. Install Pygame  
 ```bash
 pip install pygame
+
+---
+
+🧠 Future Features
+
+- Leaderboard to track scores with SQLite.
+- Player name input
+- Word difficulty scaling
+- Bonus powerups (freeze time, clear screen, etc.)
+- Web or mobile version
+
+
+
