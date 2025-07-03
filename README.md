@@ -7,7 +7,7 @@ Typing Rain is a fast-paced retro-style typing game
 
 ---
 
-## 🚀 Installation
+## Installation
 
 ### 1. Install Python (3.8 or higher recommended)  
 https://www.python.org/downloads/
